@@ -22,8 +22,22 @@ My dedication to mastering new tools and techniques drives my commitment to exce
 - Advanced tools for productivity (Trello, Notion, and Asana).
 - Social media analytics and engagement strategies.
 - Enhanced Excel techniques for better data management.
+  
 
 ---
+
+# 🛠️ My Work  
+Here are some of the projects I’ve worked on to demonstrate my skills and experience:  
+- **[Sample Data Entry Sheet](https://drive.google.com/drive/folders/14ftAijcfuVaSldBoCU9Axem_aK0QLDwi?usp=sharing)**: A demo of my data organization and entry skills using Excel/Google Sheets.
+
+
+---
+
+## 📊 Social Media Management  
+- **[Content Calendar](https://drive.google.com/drive/folders/1VjPDx3FqihQ9UkRdDwZWBLQaKK-sUsuO?usp=sharing)**: A content calendar for social media scheduling.  
+- **[Other Works](https://drive.google.com/drive/folders/1rNWMSUQJJKUvsAk8riXJdPFLdD3DO1km?usp=sharing)**: Visual samples of graphics I created for social media.  
+
+
 
 ## 🧗‍♀️ My Journey
 I’ve developed my skills through self-learning and consistently applying what I’ve learned to real-world tasks. 
