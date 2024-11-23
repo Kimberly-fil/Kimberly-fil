@@ -35,7 +35,7 @@ Here are some of the projects I’ve worked on to demonstrate my skills and expe
 
 ## 📊 Social Media Management  
 - **[Content Calendar](https://drive.google.com/drive/folders/1VjPDx3FqihQ9UkRdDwZWBLQaKK-sUsuO?usp=sharing)**: A content calendar for social media scheduling.  
-- **[Other Works](https://drive.google.com/drive/folders/1rNWMSUQJJKUvsAk8riXJdPFLdD3DO1km?usp=sharing)**: Visual samples of graphics I created for social media.  
+- **[Other Works](https://drive.google.com/drive/folders/1rNWMSUQJJKUvsAk8riXJdPFLdD3DO1km?usp=sharing)**: A samples of graphics and reels I created for social media.  
 
 
 
