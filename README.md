@@ -29,9 +29,9 @@ If you're looking for a detail-oriented and motivated bookkeeper, let's connect!
 ---
 
 # 🌱 What I'm Learning
-Advanced bookkeeping software (Quickbooks).
-Financial reporting and analysis techniques.
-Enhanced Excel skills for budgeting and data reconciliation.
+- **Advanced bookkeeping software (Quickbooks).**
+- **Financial reporting and analysis techniques.**
+- **Enhanced Excel skills for budgeting and data reconciliation.**
   
 
 ---
