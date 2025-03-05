@@ -57,5 +57,5 @@ Build a strong foundation in financial record-keeping, accounting principles, an
 
 ## 📫 Let's Connect!
 - **Email**: [dinopolkimberlyfil93@gmail.com](mailto:dinopolkimberlyfil93@gmail.com)
-- **LinkedIn**: [https://www.linkedin.com/in/kimberlyfil-dinopol-3316b22b4/](#)
+- **LinkedIn**: [https://www.linkedin.com/in/kimberlyfil-dinopol-3316b22b4/]
 
