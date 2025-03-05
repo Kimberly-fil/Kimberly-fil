@@ -8,16 +8,14 @@ Virtual Bookkeeper & Data Entry Specialist
 
 I am an aspiring bookkeeper passionate about numbers, organization, and helping businesses maintain financial clarity. With basic bookkeeping skills and hands-on experience creating an Income & Expense Tracker for small businesses, I am continuously enhancing my expertise in financial record-keeping.
 
- What I Can Do:
-✔️ Record and categorize financial transactions
-✔️ Maintain accurate income & expense reports
-✔️ Assist in reconciling accounts and ensuring financial accuracy
-✔️ Organize and manage financial data using spreadsheets and bookkeeping software
+ ## What I Can Do:
+- **Record and categorize financial transactions**
+-  **Maintain accurate income & expense reports**
+- **Assist in reconciling accounts and ensuring financial accuracy**
+- **Organize and manage financial data using spreadsheets and bookkeeping software**
 
 I am eager to grow in this field, take on bookkeeping projects, and refine my skills to provide businesses with efficient financial solutions.
-
 Open to internship, freelance, and contract work in data entry and virtual assistance.
-
 If you're looking for a detail-oriented and motivated bookkeeper, let's connect!
 
 ---
@@ -30,7 +28,7 @@ If you're looking for a detail-oriented and motivated bookkeeper, let's connect!
 
 ---
 
-🌱 What I'm Learning
+# 🌱 What I'm Learning
 Advanced bookkeeping software (Quickbooks).
 Financial reporting and analysis techniques.
 Enhanced Excel skills for budgeting and data reconciliation.
