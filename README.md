@@ -28,7 +28,7 @@ My dedication to mastering new tools and techniques drives my commitment to exce
 
 # 🛠️ My Work  
 Here are some of the projects I’ve worked on to demonstrate my skills and experience:  
-- **[Sample Data Entry Sheet]https://drive.google.com/drive/folders/1hDY7jqlD7gfn-mSBj11hQ-WjqZCL4vEF?usp=sharing**: A demo of my data organization and entry skills using Excel/Google Sheets.
+- **[Sample Data Entry Sheet](https://drive.google.com/drive/folders/1hDY7jqlD7gfn-mSBj11hQ-WjqZCL4vEF?usp=sharing)**: A demo of my data organization and entry skills using Excel/Google Sheets.
 
 
 ---
