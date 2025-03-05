@@ -38,7 +38,7 @@ If you're looking for a detail-oriented and motivated bookkeeper, let's connect!
 
 # 🛠️ My Work  
 Here are some of the projects I’ve worked on to demonstrate my skills and experience:  
-- **[Sample Data Entry Sheet](https://drive.google.com/drive/folders/1hDY7jqlD7gfn-mSBj11hQ-WjqZCL4vEF?usp=sharing)**: A demo of my data organization and entry skills using Excel/Google Sheets.
+- **[Sample Bookkeeping](https://drive.google.com/drive/folders/1hDY7jqlD7gfn-mSBj11hQ-WjqZCL4vEF?usp=sharing)**: A demo of my data organization and entry skills using Excel/Google Sheets.
 
 
 ---
